@@ -107,5 +107,5 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 - Actively participated in exchange programs, fostering cross-cultural communication and language development  
 - Represented UIC in Spring 2024, coordinating undergraduate–graduate collaboration
 
-# Hobbies
+## Hobbies
 - Reading Non-Fictions, Bullet Journaling, Streching & Yoga
