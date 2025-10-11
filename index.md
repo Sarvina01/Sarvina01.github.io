@@ -1,3 +1,5 @@
+<img src="assets/images/profile.jpg" alt="Profile photo" width="160" align="left" style="margin-right:20px; border-radius:10px;">
+
 # Sarvina Satheskumar
 
 **Mobile:** +82 10-2190-2563  
