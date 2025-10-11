@@ -13,10 +13,12 @@
   <img src="assets/images/profile.jpg" alt="Profile photo" width="160" style="border-radius: 10px; margin-right: 25px;">
   <div>
     <h1 style="margin-bottom: 5px;">Sarvina Satheskumar</h1>
-    <p><strong>Mobile:</strong> +82 10-2190-2563<br>
-    <strong>Email:</strong> sarvinasatheskumar@yonsei.ac.kr<br>
-    <strong>GitHub:</strong> <a href="https://github.com/Sarvina01">github.com/Sarvina01<br>
-    <strong>Linkedin:</strong> www.linkedin.com/in/sarvina-satheskumar</a></p>
+    <p>
+      <strong>Mobile:</strong> +82 10-2190-2563<br>
+      <strong>Email:</strong> sarvinasatheskumar@yonsei.ac.kr<br>
+      <strong>GitHub:</strong> <a href="https://github.com/Sarvina01">github.com/Sarvina01</a><br>
+      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sarvina-satheskumar">www.linkedin.com/in/sarvina-satheskumar</a>
+    </p>
   </div>
 </div>
 
