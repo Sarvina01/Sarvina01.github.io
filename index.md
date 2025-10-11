@@ -18,12 +18,14 @@
     <strong>GitHub:</strong> <a href="https://github.com/Sarvina01">github.com/Sarvina01</a></p>
   </div>
 </div>
+
 ---
 
 ## Research Interests
 <div style="text-align: justify;">
 I am interested in sustainable technologies and human-technology interaction, with a focus on biodegradable materials and safety systems for smart mobility. I am also curious about how innovation ecosystems and cross-cultural collaboration support the adoption of sustainable systems. I aim to contribute to research at the intersection of technology design, sustainability, and global impact.
-<div>
+</div>
+
 ---
 
 ## Education
