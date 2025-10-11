@@ -20,18 +20,6 @@
 </div>
 ---
 
-## Quick Links
-- [Research Interests](#research-interests)
-- [Education](#education)
-- [Honors & Awards](#honors--awards)
-- [Experience](#experience)
-- [Courses & Projects](#courses--projects)
-- [Skills](#skills)
-- [Extracurricular Activities](#extracurricular-activities)
-- [Hobbies](#hobbies)
-
----
-
 ## Research Interests
 I am interested in sustainable technologies and human-technology interaction, with a focus on biodegradable materials and safety systems for smart mobility.  
 I am also curious about how innovation ecosystems and cross-cultural collaboration support the adoption of sustainable systems.  
