@@ -16,6 +16,7 @@
     <p><strong>Mobile:</strong> +82 10-2190-2563<br>
     <strong>Email:</strong> sarvinasatheskumar@yonsei.ac.kr<br>
     <strong>GitHub:</strong> <a href="https://github.com/Sarvina01">github.com/Sarvina01</a></p>
+    <strong>Linkedin:</strong> www.linkedin.com/in/sarvina-satheskumar<br>
   </div>
 </div>
 
