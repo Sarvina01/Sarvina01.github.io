@@ -1,10 +1,3 @@
-<!-- Profile image + name -->
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="assets/images/profile.jpg" alt="Profile photo" width="160" style="border-radius:10px; margin-right:20px;">
-  <h1 style="margin:0;">Sarvina Satheskumar</h1>
-</div>
-
-<!-- Fixed quick links -->
 <div style="position: fixed; top: 10px; right: 20px; background-color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 0px 2px 5px rgba(0,0,0,0.1);">
   <a href="#research-interests" style="margin-right:15px; text-decoration:none;">Research Interests</a>
   <a href="#education" style="margin-right:15px; text-decoration:none;">Education</a>
