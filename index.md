@@ -6,7 +6,8 @@
   <a href="#courses--projects" style="margin-right:15px; text-decoration:none;">Courses & Projects</a>
   <a href="#skills" style="margin-right:15px; text-decoration:none;">Skills</a>
   <a href="#extracurricular-activities" style="margin-right:15px; text-decoration:none;">Extracurricular Activities</a>
-  <a href="#hobbies" style="text-decoration:none;">Hobbies</a>
+  <a href="#hobbies" style="margin-right:15px; text-decoration:none;">Hobbies</a>
+  <a href="#fun-facts" style="text-decoration:none;">Fun Facts</a>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -113,3 +114,8 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 
 ## Hobbies
 - Reading Non-Fictions, Bullet Journaling, Streching & Yoga
+
+## Fun Facts
+- 🐶 Dog person
+- 🧠 MBTI: INFJ - T
+- ✈️ Love travelling
