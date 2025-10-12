@@ -52,37 +52,57 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 ---
 
 ## Experience
-**Teacher Assistant, Yonsei International Summer School**  
+
+**Teacher Assistant, Yonsei International Summer School (YISS)**  
 *Jun 2025 – Aug 2025*  
-- Supported entrepreneurship and venture capital courses for 2,400 students from 77 countries  
-- Mentored cross-cultural student teams and facilitated group projects under Prof. Dongjeen Kim
+- Supported two entrepreneurship courses — *Intro to Entrepreneurship & Venture Capital (IEE1162)* and *Entrepreneurship & Management (IEE3585)* — under Prof. Dongjeen Kim, in a program hosting ~2,400 students from 77 countries.  
+- Coordinated lectures, managed classroom logistics, and provided academic support to ensure smooth learning.  
+- Facilitated group projects and discussions on startup ecosystems and venture capital.  
+- Mentored international student teams, fostering cross-cultural collaboration.
 
 **Startup Fellow, Yonsei University IBI**  
 *Mar 2025 – Jun 2025*  
-- Researched 6 biodegradable materials; benchmarked sustainability, scalability, and cost trade-offs  
-- Modeled potential cost reductions by 30% through local sourcing and automation  
-- Developed phased roadmap for market validation and prototype testing
+- Researched six biodegradable materials and benchmarked sustainability, cost, and scalability using radar plots.  
+- Modeled a potential 30% cost reduction via local sourcing, automation, and strategic partnerships.  
+- Analyzed the ₩4.2T biodegradable packaging market and identified four high-potential segments.  
+- Developed a 10-month phased roadmap from market validation to MVP launch.
 
-**Project Manager, Yonsei-Nexon i RC Creative Platform**  
+**Student Intern, W Korea Co., Ltd.**  
+*Jan 2025 – Feb 2025*  
+- Assisted in content production, social media strategy, and event coordination for marketing campaigns.  
+- Supported execution of promotional events for SMEs and entertainment brands.  
+- Collaborated with internal and external teams to ensure timely project delivery.
+
+**Project Manager, Yonsei–Nexon √i RC Creative Platform**  
 *Mar 2024 – Nov 2024*  
-- Led 5-member team to develop school zone safety solutions for EV/hybrid drivers  
-- Conducted expert interviews, technical research, and community awareness campaigns  
-- Directed reporting, design, and promotion of competition deliverables
+- Led a 5-member team to design a school-zone safety solution tailored for Korean EV/hybrid drivers.  
+- Conducted expert interviews and market research to define the product direction.  
+- Managed project planning, team coordination, and competition reporting.  
+- Directed outreach and promotional materials to raise community awareness.
 
 ---
 
 ## Courses & Projects
+
 **Biodegradable Packaging Study (IBI)**  
 *Mar 2025 – Jun 2025*  
-- Conducted market sizing (₩4.2T), sustainability benchmarking, and roadmap development
+- Conducted in-depth market sizing of South Korea’s ₩4.2T biodegradable packaging industry.  
+- Analyzed six alternative materials (bioplastics, bamboo, rice-based, seaweed, etc.) to evaluate sustainability, scalability, and cost trade-offs.  
+- Created radar plots and benchmarking frameworks to identify high-potential market segments.  
+- Proposed a 10-month phased roadmap to guide MVP development, validation, and scale-up strategies.
 
-**EV School Zone Safety Solution**  
+**EV School Zone Safety Solution (Nexon Creative Platform 2024)**  
 *Mar 2024 – Nov 2024*  
-- Human-centered safety system for EV/hybrid drivers (Nexon Creative Platform 2024)
+- Designed a **human-centered safety system** to reduce blind spots and alert EV/hybrid drivers in Korean school zones.  
+- Conducted interviews with professors and local community stakeholders to inform solution design.  
+- Led a five-member interdisciplinary team, overseeing technical design, marketing strategy, and community outreach.  
+- Delivered a working concept, awareness campaign, and final competition report.
 
-**Project Management Job Simulation**  
+**Project Management Job Simulation – CBRE (IBI Club)**  
 *Mar 2025*  
-- CBRE – Forage: Planning, execution, and monitoring certificate program
+- Completed a professional simulation focused on planning, execution, and project monitoring.  
+- Practiced structured project timelines, stakeholder communication, and risk mitigation strategies.  
+- Applied learnings in a team setting under IBI, simulating real-world PM scenarios.
 
 ---
 
@@ -116,6 +136,6 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 - Reading Non-Fictions, Bullet Journaling, Streching & Yoga
 
 ## Fun Facts
-- 🐶 Dog person
-- 🧠 MBTI: INFJ - T
-- ✈️ Love travelling
+- 🐶 Dog person - I'm a mom to two adopted handsome strays.
+- 🧠 MBTI: INFJ - T 
+- ✈️ Love travelling - Travelled to two countries and counting
