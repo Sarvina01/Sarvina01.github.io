@@ -60,7 +60,7 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 - Facilitated group projects and discussions on startup ecosystems and venture capital.  
 - Mentored international student teams, fostering cross-cultural collaboration.
 
-**Startup Fellow, International Business Initiation(IBI) Yonsei University**  
+**Startup Fellow, International Business Initiation (IBI) Yonsei University**  
 *Mar 2025 – Jun 2025*  
 - Researched six biodegradable materials and benchmarked sustainability, cost, and scalability using radar plots.  
 - Modeled a potential 30% cost reduction via local sourcing, automation, and strategic partnerships.  
