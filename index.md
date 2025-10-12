@@ -116,21 +116,28 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 ---
 
 ## Extracurricular Activities
-**WeKids’ Yonsei Chapter – Junior Financial Executive**  
+
+**WeKids’ Yonsei Chapter – WeKids' United Corp**  
 *Sep 2024 – Present*  
-- Supported planning and execution of humanitarian aid campaigns  
-- Contributed to financial planning and reporting to ensure successful campaigns
+- Member of a nonprofit 501(c) organization co-founded by chapters across top U.S. universities (e.g., Cornell, Rice, Johns Hopkins) to provide medical humanitarian aid in Haiti.  
+- **Junior Financial Executive, Financial Department**:  
+  - Supported fundraising initiatives and assisted in semester-long campaign planning and reporting.  
+  - Contributed to the successful execution of financial strategies to support WeKids’ mission.
 
-**Yonsei Foreign Student Union (FSU) – Deputy Head**  
+**Yonsei Foreign Student Union (FSU)**  
 *Mar 2024 – Dec 2024*  
-- Organized orientation programs and events for freshmen at Yonsei International Campus  
-- Planned and managed activities enhancing the student experience for foreign students  
-- Served as Deputy Planning Head for Songdo Global Fair (Nov 2024)
+- **Deputy Head, International Campus Department (Sep 2024 – Dec 2024)**:  
+  - Led orientation programs and campus activities for freshmen at Yonsei International Campus, Songdo.  
+  - Co-organized the Songdo Global Fair (SGF) 2024, one of the largest international events on campus.  
+- **General Member, Operations Department (Mar 2024 – Dec 2024)**:  
+  - Supported event planning and execution to build a stronger foreign student community.
 
-**Iyagi Hour Yonsei – Korean-English Language Exchange Club**  
+**Iyagi Hour Yonsei – Language Exchange Club (GSIS)**  
 *Mar 2023 – Jun 2024*  
-- Actively participated in exchange programs, fostering cross-cultural communication and language development  
-- Represented UIC in Spring 2024, coordinating undergraduate–graduate collaboration
+- Participated in Korean-English language exchange programs, enhancing cultural understanding and communication.  
+- **UIC Representative (Spring 2024)**:  
+  - Coordinated language exchange activities between UIC undergraduates and GSIS graduate students.  
+  - Promoted cross-cultural engagement and strengthened community collaboration.
 
 ## Hobbies
 - Reading Non-Fictions, Bullet Journaling, Streching & Yoga
