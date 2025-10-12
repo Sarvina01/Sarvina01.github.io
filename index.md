@@ -98,7 +98,7 @@ Physical Science Stream; GPA: 3.96 / 4.00, Sep 2021 – May 2022
 - Led a five-member interdisciplinary team, overseeing technical design, marketing strategy, and community outreach.  
 - Delivered a working concept, awareness campaign, and final competition report.
 
-**Project Management Job Simulation – CBRE (IBI Club)**  
+**Project Management Job Simulation – CBRE (Under IBI)**  
 *Mar 2025*  
 - Completed a professional simulation focused on planning, execution, and project monitoring.  
 - Practiced structured project timelines, stakeholder communication, and risk mitigation strategies.  
